@@ -1,4 +1,4 @@
-# globetest
+# FrontendExam
 
 ## Project setup
 ```
